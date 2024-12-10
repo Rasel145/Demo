@@ -17,3 +17,6 @@
     echo "The result is : ".$result;
  }
  myFunction(5,13);
+
+ $array = ["apple","banana","orange"];
+var_dump($array);
